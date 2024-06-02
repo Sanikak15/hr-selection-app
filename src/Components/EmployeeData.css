@@ -1,0 +1,13 @@
+.EmployeeData {
+  display: flex;
+  flex-direction: row; 
+  gap: 20px;
+  border: 1px solid #ccc; 
+  padding: 10px; 
+  margin-bottom: 10px; 
+}
+
+.EmployeeData span {
+  font-size: 16px;
+  margin-right: 10px;
+}

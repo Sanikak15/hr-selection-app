@@ -1,0 +1,12 @@
+.EditEmployeeForm {
+  display: flex;
+  flex-direction: column;
+}
+
+.EditEmployeeForm input {
+  margin-bottom: 10px;
+}
+
+.EditEmployeeForm button {
+  margin-top: 5px;
+}

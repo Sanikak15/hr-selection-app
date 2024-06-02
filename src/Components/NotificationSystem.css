@@ -1,8 +1,4 @@
-/* App.css */
-.AppContainer {
-  padding: 20px;
-}
-
+/* NotificationSystem.css */
 .notification-system {
   position: fixed;
   top: 10px;
@@ -31,25 +27,4 @@
 
 .notification.warning {
   background-color: #ffc107;
-}
-
-.saved-filters button {
-  margin-right: 10px;
-  margin-bottom: 10px;
-}
-
-button {
-  margin-right: 5px;
-}
-
-.employee-details {
-  margin-top: 20px;
-}
-
-.employee-details p {
-  margin: 5px 0;
-}
-
-.employee-details strong {
-  font-weight: bold;
 }

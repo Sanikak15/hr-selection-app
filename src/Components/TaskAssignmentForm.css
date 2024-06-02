@@ -1,0 +1,27 @@
+/* TaskAssignmentForm.css */
+.task-assignment-form {
+  width: 100%; /* Set width to 100% */
+  display: flex; /* Use flexbox for layout */
+}
+
+.task-input {
+  flex: 1; /* Take remaining space */
+  padding: 8px; /* Add padding */
+  margin-right: 10px; /* Add right margin */
+  border: 1px solid #ccc; /* Add border */
+  border-radius: 5px; /* Add border radius */
+  font-size: 16px; /* Adjust font size */
+}
+
+.assign-button {
+  padding: 8px 16px; /* Add padding */
+  background-color: #007bff; /* Button background color */
+  color: #fff; /* Button text color */
+  border: none; /* Remove button border */
+  border-radius: 5px; /* Add border radius */
+  cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+.assign-button:hover {
+  background-color: #0056b3; /* Change background color on hover */
+}
